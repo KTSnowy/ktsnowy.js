@@ -31,6 +31,9 @@ export default function Home() {
         </main>
         <footer className='absolute bottom-0 left-0 mx-12 py-6'>
           <p className='text-neutral-600 text-sm'>© KTSnowy (Keith Taylor) 2022</p>
+          <p className='text-neutral-600 text-sm'>
+            <a href='https://heropatterns.com/' rel='noopener noreferrer' target='_blank'>Pattern by Hero Patterns</a>
+          </p>
         </footer>
       </section>
       <section className='min-h-screen flex-grow background-graph'>
