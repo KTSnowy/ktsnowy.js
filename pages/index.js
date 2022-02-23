@@ -19,13 +19,13 @@ export default function Home() {
           <p className='font-extralight leading-10 text-neutral-400 text-3xl md:text-4xl pb-4'>Javascript / HTML / CSS</p>
           <p className='font-extralight leading-10 text-neutral-400 text-3xl md:text-4xl pb-16'>NodeJS / ReactJS</p>
           <h2 className='font-bold text-xl py-4'>Contact me at:</h2>
-          <p className='font-extralight text-neutral-400 text-3xl md:text-4xl pb-4'>
+          <p className='font-extralight transition ease-in-out w-fit text-neutral-400 hover:text-neutral-200 text-3xl md:text-4xl pb-4'>
             <a href='https://github.com/ktsnowy' rel='noopener noreferrer' target='_blank'>GitHub</a>
           </p>
-          <p className='font-extralight text-neutral-400 text-3xl md:text-4xl pb-4'>
+          <p className='font-extralight transition ease-in-out w-fit text-neutral-400 hover:text-neutral-200 text-3xl md:text-4xl pb-4'>
             <a href='https://www.linkedin.com/in/ktsnowy/' rel='noopener noreferrer' target='_blank'>LinkedIn</a>
           </p>
-          <p className='font-extralight text-neutral-400 text-3xl md:text-4xl pb-24'>
+          <p className='font-extralight transition ease-in-out w-fit text-neutral-400 hover:text-neutral-200 text-3xl md:text-4xl pb-24'>
             <a href='mailto:keith@ktsnowy.com?subject=To KTSnowy: Contact me'>Email</a>
           </p>
         </main>
