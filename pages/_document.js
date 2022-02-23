@@ -4,6 +4,7 @@ export default function Document() {
   return (
     <Html lang='en'>
       <Head>
+        <meta name='description" content="KTSnowy | Software Developer' />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:creator" content="@ktsnowy_" />
         <meta property="og:url" content="https://www.ktsnowy.com/" />
