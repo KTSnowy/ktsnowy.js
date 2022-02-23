@@ -8,7 +8,7 @@ export default function Home() {
         <meta name='description" content="KTSnowy | Software Developer' />
         <link rel='icon' href='/favicon.png' />
       </Head>
-      <section className='relative min-h-screen lg:min-w-[650px] bg-neutral-900 text-neutral-100 px-8'>
+      <section className='relative min-h-screen lg:min-w-[650px] bg-neutral-900 text-neutral-100 px-8 background-drop-shadow'>
         <header className='pt-12 pb-20 ml-4 mr-12'>
           <h1 className='text-4xl'><b className='text-[#AEE9E0]'>KT</b>Snowy</h1>
         </header>
