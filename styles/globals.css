@@ -193,7 +193,7 @@ body {
 }
 
 .background-drop-shadow {
-    filter: drop-shadow(5px 0px 15px #080808);
+    filter: drop-shadow(5px 0px 10px #101010);
 }
 
 .background-graph {
